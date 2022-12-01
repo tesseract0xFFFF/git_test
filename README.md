@@ -1,3 +1,3 @@
 # git_test
-first github repo
+first github repo\n
 sup yall
